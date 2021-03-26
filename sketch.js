@@ -18,7 +18,6 @@ function setup() {
 	dustbinObj=new Dustbin(1200,650);
 
 	paperObj=new Paper(210,450,40);
-	paperObj.scale = 0.1;
 
 	groundObj=new ground(width/2,670,width,20);
 	
